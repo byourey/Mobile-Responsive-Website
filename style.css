@@ -3,6 +3,21 @@ html body {
     position: relative;
 }
 
+div.boxxes {
+    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+    margin: 50px;    
+}
+
+.navbar-brand {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.navbar-nav {
+position: absolute;
+right: 80px;
+}
+
 main {
     background-color: white;
     width: 50%;
@@ -24,24 +39,6 @@ article {
     width: 60%;
 }
 
-
-.navbar-brand {
-    background-color: lightseagreen;
-    color: white;
-}
-
-.navbar-nav {
-position: absolute;
-right: 80px;
-}
-
-footer {
-    text-align: center;
-    background-color: grey;
-    padding: 10px;
-    color: white;
-}
-
 h2 {
     color: lightseagreen;
     margin-left: 10px;
@@ -55,9 +52,6 @@ img {
     float: left;
     margin: 10px;
 }
-.container {
-    width:max-content;
-}
 
 #p2 {
 margin-top: 30px;
@@ -70,8 +64,9 @@ div.box {
     background-color: lightseagreen;
 }
 
-div.boxxes {
-    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
-    margin: 50px;
-    
+footer {
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+    color: white;
 }
