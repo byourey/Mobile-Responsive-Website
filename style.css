@@ -2,6 +2,13 @@ html body {
     background-color: lightgrey;
     position: relative;
 }
+
+main {
+    background-color: white;
+    width: 50%;
+    margin-left: 20px;
+    padding: 20px;
+}
 .navbar-brand {
     background-color: lightseagreen;
     color: white;
@@ -15,7 +22,7 @@ right: 80px;
 footer {
     text-align: center;
     background-color: grey;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 
@@ -36,7 +43,7 @@ img {
     margin: 10px;
 }
 .textwrap {
-    
+
 }
 
 .container {
