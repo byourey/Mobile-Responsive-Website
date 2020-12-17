@@ -21,7 +21,7 @@ article {
     background-color: white;
     margin-left: 20px;
     padding: 20px;
-    width: 80%;
+    width: 60%;
 }
 
 
@@ -47,21 +47,14 @@ h2 {
     margin-left: 10px;
 }
 
-p {
-    float: clear;
-    margin-left: 200px;
-    margin-bottom:200px;
-    padding-left: 50px;
+img.text {
+margin-left: 0px;
 }
 
 img {
     float: left;
     margin: 10px;
 }
-.textwrap {
-
-}
-
 .container {
     width:max-content;
 }
