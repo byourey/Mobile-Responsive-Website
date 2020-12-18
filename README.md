@@ -1,7 +1,7 @@
 # Mobile-Responsive-Website
 Bjorn Yourey Portfolio
 
-<a href ="https://github.com/byourey/Mobile-Responsive-Website">View My Deployed Application Here</a>
+<a href ="https://byourey.github.io/Mobile-Responsive-Website/">View My Deployed Application Here</a>
 
 ## Install
 * Clone repository to your local device.
