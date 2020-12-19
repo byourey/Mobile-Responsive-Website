@@ -66,3 +66,22 @@ footer {
     padding: 10px;
     color: white;
 }
+
+@media (min-width: 769px) and (max-width: 995px) {
+article {
+    margin-left: 20px;
+    padding: 20px;
+    width: 60%;
+    
+}
+
+}
+
+@media (min-width: 400px) and (max-width :768px) {
+article {
+    margin-left: 20px;
+    padding: 20px;
+    width: 60%;
+}
+
+}
