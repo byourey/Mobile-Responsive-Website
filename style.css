@@ -1,6 +1,10 @@
-div.boxxes {
+/* Main Container Section */
+
+div.Maincontainer {
 background-color: lightgrey;
 }
+
+/* Navigation Bar Section */
 
 .navbar-brand {
     background-color: lightseagreen;
@@ -12,11 +16,13 @@ position: absolute;
 right: 80px;
 }
 
+
+/* Semantic HTML Section */
 main {
     background-color: white;
-    width: 60%;
+    width: 70%;
     margin-left: 20px;
-    padding: 20px;
+    padding: 30px;
 }
 
 section {
@@ -33,6 +39,8 @@ article {
     width: 60%;
 }
 
+/* Tag Selector Section */
+
 h2 {
     color: lightseagreen;
     margin-left: 10px;
@@ -42,6 +50,8 @@ img {
     float: left;
     margin: 10px;
 }
+
+/* ID Selector Section */
 
 #p2 {
 margin-top: 30px;
@@ -53,6 +63,8 @@ div.box {
     height: 15px;
     background-color: lightseagreen;
 }
+
+/* Footer Section */
 
 footer {
     text-align: center;
