@@ -9,9 +9,9 @@ Bjorn Yourey Portfolio
 
 ## Usage
 * Commented for every section on the page in HTML and CSS.
-* Added social media links and made sure they are clicabkle and work.
-* Made sure content takes up entire screen on xs and on sm and larger screens there are margins on the left and ride of the screen.
+* Added social media links and made sure they are clickable.
+* Made sure content takes up entire screen on xs and on sm and larger screens there are margins on the left and right of the screen.
 
 ## Credits
-* 
+* To my tutor Kyle Daniels & my colleagues in the group.
 

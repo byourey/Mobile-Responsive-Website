@@ -1,9 +1,5 @@
-html body {
-    position: relative;
-}
-
 div.boxxes {
-    background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+background-color: lightgrey;
 }
 
 .navbar-brand {
@@ -25,7 +21,7 @@ main {
 
 section {
     background-color: white;
-    width: 80%; 
+    width: 70%; 
     margin-left: 20px; 
     padding: 10px;
 }
@@ -61,25 +57,6 @@ div.box {
 footer {
     text-align: center;
     background-color: grey;
-    padding: 10px;
+    padding: 20px;
     color: white;
-}
-
-@media (min-width: 769px) and (max-width: 995px) {
-article {
-    margin-left: 20px;
-    padding: 20px;
-    width: 60%;
-    
-}
-
-}
-
-@media (min-width: 400px) and (max-width :768px) {
-article {
-    margin-left: 20px;
-    padding: 20px;
-    width: 60%;
-}
-
 }
